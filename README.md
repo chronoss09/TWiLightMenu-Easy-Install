@@ -17,5 +17,6 @@ Bonus :
 
 NB : for now, the script have the last TWiLightMenu version so no need to update it now...
 
-- Thanks to RocketRobz for TWiLightMenu
+- Thanks to Rocket Robz for TWiLightMenu
 - Thanks to DeadSkullzJr for cheats file
+- Source or more Icons [here](https://skins.ds-homebrew.com/icon/)
