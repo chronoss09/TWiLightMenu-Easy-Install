@@ -14,6 +14,8 @@ You can with TWiLightMenu Easy Install :
 Bonus :
   * _Last Usercheats file for cheats_
   * _Some icons for roms folder (snes, nes, gba, gb....)_
+  * _Theme for R4 menu on the pack (Nintendo Switch, Call of Duty: Modern Warfare 2)_
+  * _Theme for DSi menu on the pack (Bowser's Fury, Lake Lapcat, Minecraft)_
 
 NB : for now, the script have the last TWiLightMenu version so no need to update it now...
 
